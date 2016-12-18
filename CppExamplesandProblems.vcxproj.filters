@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Chp6">
+      <UniqueIdentifier>{0c03ebeb-5d47-46cd-af8a-b8dd04d0eaf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp6\Examples">
+      <UniqueIdentifier>{bdc157a2-eae3-4c65-9474-a85b76d9d8d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp6\Problems">
+      <UniqueIdentifier>{6755568a-6808-4cb9-8cd8-9a955bc441c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp7">
+      <UniqueIdentifier>{72eca342-203e-46fa-b366-e00f0839b283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp8">
+      <UniqueIdentifier>{7ff005fd-c083-4087-a6aa-d98add9e3fa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp8\Examples">
+      <UniqueIdentifier>{02445987-c942-494b-ae02-b163e5e4717e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp8\Problems">
+      <UniqueIdentifier>{6e0dbae4-8ba9-44a2-9c26-eac7daff6516}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp7\Exapmles">
+      <UniqueIdentifier>{adc41d9a-75a4-48ad-9dc0-8b99fd22e9a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp7\Problems">
+      <UniqueIdentifier>{339043a6-2412-4f50-8129-3b7060b34193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp5">
+      <UniqueIdentifier>{e71f11a0-48f1-43a4-93b9-a105fd576717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp5\Examples">
+      <UniqueIdentifier>{fd67703e-0a56-4a1a-ad83-3c5c44028ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp5\Problems">
+      <UniqueIdentifier>{1ade348a-e5a4-4582-9fab-77112c05552a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp1">
+      <UniqueIdentifier>{3938085d-f4a0-4056-826f-7b3841ccebd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp1\Examples">
+      <UniqueIdentifier>{9bfa2f36-2c5a-4ce0-84ba-c23f66588f93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp1\Problems">
+      <UniqueIdentifier>{70eeadf5-587a-49d7-80ae-f82c766eddf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp2~4">
+      <UniqueIdentifier>{6babf844-39db-4004-af16-61b7fd4f158f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp2~4\Examples">
+      <UniqueIdentifier>{b3ba9c49-486c-483b-ab52-64361e6330f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp2~4\Problems">
+      <UniqueIdentifier>{05ada3fe-3314-459c-9d98-a7377817b7be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp9">
+      <UniqueIdentifier>{bc101d4d-948a-42c7-a761-38e628550474}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp9\Examples">
+      <UniqueIdentifier>{5aea1936-c71f-47a4-bfa9-74072b4731d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp9\OOP project level7">
+      <UniqueIdentifier>{e57b6973-7b15-49c9-9b81-5bf7cc3a64a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp10">
+      <UniqueIdentifier>{1b34260e-d045-4a48-9711-f1b8c37e47a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp10\Examples">
+      <UniqueIdentifier>{f4541fcd-d32f-4858-8f98-6bfce862fd5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp10\Problems">
+      <UniqueIdentifier>{7dc3cca1-c2fc-4ccb-92a7-b8e8ce1d23b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp11">
+      <UniqueIdentifier>{39fa5514-d55a-48d3-80fa-ce90afe5a533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp11\Examples">
+      <UniqueIdentifier>{02cc8f99-44c4-4ce9-a8f5-65dd3a35ad21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp11\Problems">
+      <UniqueIdentifier>{a23cc447-c5f6-4316-b741-5c615bb2192a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp11\OOP project level8">
+      <UniqueIdentifier>{a9c2d6f6-5f08-4def-81a6-0d255b183f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp12">
+      <UniqueIdentifier>{5ec17447-e5ad-44bd-a01a-78970432a538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp12\Examples">
+      <UniqueIdentifier>{38c5b69a-aadd-4d52-99e9-62289ac842a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp12\Problems">
+      <UniqueIdentifier>{f13c576a-d16a-4a03-992e-f404808585ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp13">
+      <UniqueIdentifier>{2c08a613-8eb8-4946-a0b1-244672af7c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp13\Examples">
+      <UniqueIdentifier>{d28e0712-095e-4a10-9d7a-0354d5f84583}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp13\Problems">
+      <UniqueIdentifier>{bc98be79-ba82-4894-a90c-d285b9ec9460}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp14">
+      <UniqueIdentifier>{a83f0144-dbb0-4fea-ad78-547027145f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp14\Examples">
+      <UniqueIdentifier>{bea7a45f-4c7d-4989-ac15-a95d040f9f10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp14\Problems">
+      <UniqueIdentifier>{ff6d1e31-fee1-4f79-8aaf-f4f795d3757b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp15">
+      <UniqueIdentifier>{45da730d-80f8-4acf-aa72-e7f916e6ef98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp15\Examples">
+      <UniqueIdentifier>{89e3eba2-d396-44ca-85b8-89409e9719a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp15\Problems">
+      <UniqueIdentifier>{3b3d23c5-4fe0-49b1-a592-63f31cc1aaa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp16">
+      <UniqueIdentifier>{e86f7fc9-469b-4d23-b7e5-12b166cfc546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp16\Examples">
+      <UniqueIdentifier>{2fd58dc7-eb84-4f72-8041-a46be2fdf697}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chp16\Problems">
+      <UniqueIdentifier>{195b2391-8c71-4f3e-bcde-4f0d444cf448}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Chap6\Chap6\1_ConstObject.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\2_ConstOverloading.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\3_MyFriendClass.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\4_MyFriendFunction.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\5_CComStatic.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\6_NeedGlobal.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\7_StaticMember.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\8_PublicStaticMemer.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\9_ConstStaticMember.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\10_Mutable.cpp">
+      <Filter>소스 파일\Chp6\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap6\Chap6\OOP project level 4.cpp">
+      <Filter>소스 파일\Chp6\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\P5_1_1.cpp">
+      <Filter>소스 파일\Chp5\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\OOP project level3.cpp">
+      <Filter>소스 파일\Chp5\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\1_ClassInit.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\2_ShallowCopyError.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\3_DeepCopyCon.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\4_PassObjCopycon.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\5_ReturnObjCopycon.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\6_IKnowTempObj.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap5\Chap5\7_ ReturnObjDeadTime.cpp">
+      <Filter>소스 파일\Chp5\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Car.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Constructor1.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Destructor.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Encaps1.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Encaps2.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\MemMalFree.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\NewDelete.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\ObjArr.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\ObjPtrArr.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Point.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\PointerThis.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\PrivateConstructor.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RacingCar.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RacingCarAdd.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RacingCarClassBase.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RacingMain.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Rectangle.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RectangleFalut.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RectangleFalutFind.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\ReferenceMember.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\ReferenceOne.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RefReturnOne.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RefReturnThree.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\RefReturnTwo.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\SelfRef.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\StdCPPFunc.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\UsefulThisPtr.cpp">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem2-1-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem2-1-3.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem2-2-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem2-3-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem2-4-2.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem3-2-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem3-2-2.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem4-1-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem4-2-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem4-3-1.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Problem4-3-2.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chap2,3,4\Chap2\Project2.cpp">
+      <Filter>소스 파일\Chp2~4\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\0_BasicFormat.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\1_HelloWorld.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\2_SimpleAdder.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\3_BetweenAdder.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\4_StringIO.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\5_FunctionOverloading.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\6_DefultValue1.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\7_DefaultValue2.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\8_DefaultValue3.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\9_inline Func.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\10_NameSp1.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\11_UsingDcl2.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\12_NameAlias.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1\Chapter1\13_.cpp">
+      <Filter>소스 파일\Chp1\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\1_1.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\1_2.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\1_3.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\1_4.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\2_1.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\3_1.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Chapter1Promblem\Chapter1Promblem\Project1.cpp">
+      <Filter>소스 파일\Chp1\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1_UnivStudentInheri.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="2_DerivCreOrder.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="3_DerivDestOrder.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="4_DestModel.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="P7-1-1.cpp">
+      <Filter>소스 파일\Chp7\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P7-1-2.cpp">
+      <Filter>소스 파일\Chp7\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5_ProtectedHeri.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="6_ISAInheritance.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="7_HASInheritance.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="8_HASComposite_ver2.cpp">
+      <Filter>소스 파일\Chp7\Exapmles</Filter>
+    </ClCompile>
+    <ClCompile Include="P7-2-1.cpp">
+      <Filter>소스 파일\Chp7\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P7-2-2.cpp">
+      <Filter>소스 파일\Chp7\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP project level5.cpp">
+      <Filter>소스 파일\Chp7\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1_ObjectPointer.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_EmployeeManager3.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_FunctionOverride.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="4_FunctionVirtualOverride.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_EmployeeManager4.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P8-1-1.cpp">
+      <Filter>소스 파일\Chp8\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="6_ReferenceAttribute.cpp">
+      <Filter>소스 파일\Chp8\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP project level6.cpp">
+      <Filter>소스 파일\Chp8\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="2_RealObjUnder2.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_VirtualInternal.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="1_RealObjUnder1.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="4_MultiInheri1.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_MultiInheri2.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="6_MultiInheri3.cpp">
+      <Filter>소스 파일\Chp9\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClCompile>
+    <ClCompile Include="Accounthandler.cpp">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClCompile>
+    <ClCompile Include="BankingSystemMain.cpp">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClCompile>
+    <ClCompile Include="1_FirstOperationOverloading.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_OverloadingOperation.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_GFunctionOverloading.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P10-1-1.cpp">
+      <Filter>소스 파일\Chp10\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P10-1-2.cpp">
+      <Filter>소스 파일\Chp10\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P10-1-3.cpp">
+      <Filter>소스 파일\Chp10\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4_OneOpndOverloading.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P10-2-1,2.cpp">
+      <Filter>소스 파일\Chp10\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="5_PostOpndOverloading.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="6_PointMultipleOperation.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="7_CommuMultipleOperation.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="8_ConsoleOutput.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="9_IterateConsoleOutput.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="10_PointConsoleOutput.cpp">
+      <Filter>소스 파일\Chp10\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P10-3-1.cpp">
+      <Filter>소스 파일\Chp10\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="1_FirstOperationOverloading2.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_AssignShallowCopyError.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_InheritAssignOperation.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P11-1-1.cpp">
+      <Filter>소스 파일\Chp11\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P11-1-2.cpp">
+      <Filter>소스 파일\Chp11\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4_Improvelnit.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_ArrayClass.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="6_StableConstArrayProb.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="7_StableConstArraySolu.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="8_StablePointObjArray.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="9_StablePointPtrArray.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P11-2-1.cpp">
+      <Filter>소스 파일\Chp11\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P11-2-2____fail.cpp">
+      <Filter>소스 파일\Chp11\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="10_NewDeleteOverloading.cpp">
+      <Filter>소스 파일\Chp11\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="1_STDString.cpp">
+      <Filter>소스 파일\Chp12\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassString.cpp">
+      <Filter>소스 파일\Chp12\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat 예제.cpp">
+      <Filter>소스 파일\Chp12\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="1_AddFunctionTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_TwoTypeAddFunction.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_PrimitiveFunctionTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="P13-1-1.cpp">
+      <Filter>소스 파일\Chp13\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="P13-1-2.cpp">
+      <Filter>소스 파일\Chp13\Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="4_NeedSpecialFunctionTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_SpecialFunctionTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="6_PointClassTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="7_PointClassTemplateFuncDef.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="8_PointTemplate.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="8_PointMain.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="9_Point.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="9_BoundArrayMain.cpp">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="1_BoundArrayMain.cpp">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_PointTemplateFriendFunction.cpp">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_ClassTemplateSpecialization.cpp">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="4_ClassTemplatePartialSpecialization.cpp">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_NonTypeTemplateParam.cpp">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_UnhandlingException.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_HandlingExceptionUseIf.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_HandlingExeptionTryCatch.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="4_PassException.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_DiffHandlingPosition.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="6_StackUnwinding.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="7_CatchList.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="8_ATMSim.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="9_ATMSim2.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="11_BadAlloc.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="10_CatchFlow_.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="12_ReThrow.cpp">
+      <Filter>소스 파일\Chp15\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="1_PowerfullCasting.cpp">
+      <Filter>소스 파일\Chp16\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="2_DynamicCasting.cpp">
+      <Filter>소스 파일\Chp16\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="3_StaticCasting.cpp">
+      <Filter>소스 파일\Chp16\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="4_ConstCasting.cpp">
+      <Filter>소스 파일\Chp16\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="5_ReinterpretCasting.cpp">
+      <Filter>소스 파일\Chp16\Examples</Filter>
+    </ClCompile>
+    <ClCompile Include="Test2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Chap2,3,4\Chap2\Car.h">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Chap2,3,4\Chap2\Point.h">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Chap2,3,4\Chap2\Rectangle.h">
+      <Filter>소스 파일\Chp2~4\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalAccount.h">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClInclude>
+    <ClInclude Include="HighCreditAccount.h">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClInclude>
+    <ClInclude Include="AccountHandler.h">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClInclude>
+    <ClInclude Include="BankingCommonDec1.h">
+      <Filter>소스 파일\Chp9\OOP project level7</Filter>
+    </ClInclude>
+    <ClInclude Include="8_PointTemplate.h">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="9_ArrayTemplate.h">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="9_Point.h">
+      <Filter>소스 파일\Chp13\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="1_PointTemplate.h">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClInclude>
+    <ClInclude Include="1_ArrayTemplate.h">
+      <Filter>소스 파일\Chp14\Examples</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
